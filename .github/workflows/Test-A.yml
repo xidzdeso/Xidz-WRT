@@ -40,7 +40,7 @@ on:
       rootfs_size:
         description: "ROOTFS Size, [ 512 640 768 1024 ]"
         required: true
-        default: '512'
+        default: "512"
         type: string  
       openwrt_kernel:
         description: "Select kernel version"
